@@ -1,2 +1,3 @@
 # EE301
-For EE301 Assignment
+EE301 Assignment2 Scientific Calculator front-end
+Including calculator interface and history interface
